@@ -1,0 +1,7 @@
+*.sdf
+*.suo
+bin/
+obj/
+Debug/
+Engine5/Debug/
+Thumbs.db
