@@ -1,6 +1,8 @@
 *.sdf
+*.opensdf
 *.suo
 bin/
+ipch/
 obj/
 Debug/
 Engine5/Debug/
